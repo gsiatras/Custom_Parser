@@ -1,0 +1,6 @@
+program geoasda ;
+var x : integer;
+begin
+while (x+5<1) do if (4>>2) then y := 40;
+if (1>2) then x := 2
+end .
